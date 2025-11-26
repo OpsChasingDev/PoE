@@ -236,7 +236,7 @@ Show # $type->6l $tier->hightier
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 200 0 0 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Diamond
 
@@ -317,7 +317,7 @@ Show # $type->maps->influenced $tier->zanamap
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -341,7 +341,7 @@ Show # $type->maps->influenced $tier->infshaper
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -353,7 +353,7 @@ Show # $type->maps->influenced $tier->infelder
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -365,7 +365,7 @@ Show # $type->maps->influenced $tier->infconquerors
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -2234,7 +2234,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=1 "Magister's" "Exalter's"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 SetBackgroundColor 255 196 196 255
@@ -2258,7 +2258,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=1 "Merciless" "Dictator's" "of Many" "Vulcanist's" "Rimedweller's" "Stormbrewer's" "Behemoth's" "Provocateur's" "Martinet's"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Bows" "Wands"
@@ -2284,7 +2284,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=2 "Vapourising" "Crystalising" "Carbonising"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Bows" "Claws"
@@ -2297,7 +2297,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=1 "Xoph's" "of the Fanatical"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Sceptres"
@@ -2310,7 +2310,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=1 "of Splintering"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Quivers"
@@ -2323,7 +2323,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=2 "of the Gods" "of the Blur" "of Nullification" "of Bameth"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Gloves"
@@ -2336,7 +2336,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=2 "of the Gods" "of the Wind" "of Nullification" "of the Polymath" "of Bameth"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Helmets"
@@ -2349,7 +2349,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=2 "of the Gods" "of the Wind" "of Bameth" "of Nullification"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Boots"
@@ -2362,7 +2362,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=2 "of the Gods" "of the Wind" "of the Genius" "of Bameth" "Overpowering"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Rings"
@@ -2375,7 +2375,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=3 "Surging" "Shimmering" "Electromantic" "of Soaring" "of Potency" "of Unmaking" "of the Elements" "Puncturing"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Jewels"
@@ -2388,7 +2388,7 @@ SetFontSize 45
 Identified True
 Rarity Normal Magic Rare
 HasExplicitMod >=3 "of Acrimony" "of Zealousness" "Vivid" "of Combusting"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Red
 MinimapIcon 0 Red Hexagon
 Class "Jewels"
@@ -2402,7 +2402,7 @@ Identified True
 Corrupted False
 Rarity Normal Magic Rare
 HasExplicitMod >=1 "of the Underground"
-PlayAlertSound 1 300
+PlayAlertSound 1_maplestory.mp3 300
 PlayEffect Orange
 MinimapIcon 0 Orange Moon
 Class "Claws" "Rune Daggers" "Sceptres" "Staves" "Warstaves" "Wands" "Gloves" "Amulets" "Rings"
@@ -2849,7 +2849,7 @@ Show # $type->exotic->invitation $tier->t1
 #	SetTextColor 255 255 255 255
 #	SetBorderColor 255 255 255 255
 #	SetBackgroundColor 225 111 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Pentagon
 
@@ -2924,7 +2924,7 @@ Show # $type->artefact->sanctifiedrelics $tier->anyrelic
 #	SetTextColor 255 255 255 255
 #	SetBorderColor 255 255 255 255
 #	SetBackgroundColor 120 200 160 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Moon
 
@@ -4591,7 +4591,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 	SetTextColor 150 0 255 255
 	SetBorderColor 240 100 0 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Star
 
@@ -4605,7 +4605,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4619,7 +4619,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4632,7 +4632,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4646,7 +4646,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4660,7 +4660,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4673,7 +4673,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4687,7 +4687,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4701,7 +4701,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4714,7 +4714,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4728,7 +4728,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4742,7 +4742,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4755,7 +4755,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4769,7 +4769,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4783,7 +4783,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4796,7 +4796,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4810,7 +4810,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4824,7 +4824,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4837,7 +4837,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4851,7 +4851,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4865,7 +4865,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4878,7 +4878,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4892,7 +4892,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4906,7 +4906,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4919,7 +4919,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4933,7 +4933,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -4947,7 +4947,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	SetTextColor 150 0 255 255
 #	SetBorderColor 240 100 0 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Star
 
@@ -5616,7 +5616,7 @@ Show # $type->gems-exceptional $tier->awaany
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5627,7 +5627,7 @@ Show # $type->gems-exceptional $tier->altany
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5641,7 +5641,7 @@ Show # $type->gems-exceptional $tier->2020z
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5654,7 +5654,7 @@ Show # $type->gems-exceptional $tier->2120
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5667,7 +5667,7 @@ Show # $type->gems-exceptional $tier->2023
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5679,7 +5679,7 @@ Show # $type->gems-exceptional $tier->2123any
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5691,7 +5691,7 @@ Show # $type->gems-exceptional $tier->xx23
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5703,7 +5703,7 @@ Show # $type->gems-exceptional $tier->21xx
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5715,7 +5715,7 @@ Show # $type->gems-exceptional $tier->vaal20
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -5768,7 +5768,7 @@ Show # $type->gems-special $tier->exspecial
 	SetTextColor 20 240 240 255
 	SetBorderColor 240 0 0 255
 	SetBackgroundColor 70 0 20 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -6032,7 +6032,7 @@ Show # $type->uniques->replicas $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 175 96 37 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Star
 
@@ -6115,7 +6115,7 @@ Show # $type->uniques->maps $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Star
 
@@ -6161,7 +6161,7 @@ Show # $type->uniques->maps $tier->restex
 #	SetTextColor 100 0 122 255
 #	SetBorderColor 100 0 122 255
 #	SetBackgroundColor 255 255 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Square
 
@@ -6172,7 +6172,7 @@ Show # $type->maps->t17uber $tier->any
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -6227,7 +6227,7 @@ Show # $type->maps->vaaltemple $tier->any
 	SetTextColor 100 0 122 255
 	SetBorderColor 100 0 122 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Square
 
@@ -6672,7 +6672,7 @@ Show # $type->uniques->heist $tier->any
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Yellow
 	MinimapIcon 1 Yellow Star
 
@@ -6775,7 +6775,7 @@ Show # $type->fragments->scarabs $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 0 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -6874,7 +6874,7 @@ Show # $type->fragments $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 0 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -6931,7 +6931,7 @@ Show # %D8 $type->currency->harvest $tier->t2lifeforce
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7297,7 +7297,7 @@ Show # %D8 $type->currency->stackedsix $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7376,7 +7376,7 @@ Show # %D8 $type->currency->stackedthree $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7493,7 +7493,7 @@ Show # $type->currency $tier->t2divine
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7600,7 +7600,7 @@ Show # $type->vials $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7646,7 +7646,7 @@ Show # $type->currency->deliriumorbs $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7684,7 +7684,7 @@ Show # $type->currency->resonator $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7747,7 +7747,7 @@ Show # $type->currency->fossil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7818,7 +7818,7 @@ Show # $type->currency->oil $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7890,7 +7890,7 @@ Show # $type->runesgrafts $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -7960,7 +7960,7 @@ Show # $type->corpses $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8102,7 +8102,7 @@ Show # $type->currency->trial->omen $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8164,7 +8164,7 @@ Show # $type->currency->trial->tattoo $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8212,7 +8212,7 @@ Show # $type->currency->others $tier->harbinger
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8223,7 +8223,7 @@ Show # $type->currency->others $tier->misc
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8260,7 +8260,7 @@ Show # $type->exotic->wombgifts $tier->t3
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 120 200 160 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Moon
 
@@ -8324,7 +8324,7 @@ BaseType == "Otherworldly Incubator" "Maddening Incubator" "Blighted Incubator" 
 #	SetTextColor 255 255 255 255
 #	SetBorderColor 255 255 255 255
 #	SetBackgroundColor 0 148 255 255
-#	PlayAlertSound 1 300
+#	PlayAlertSound 1_maplestory.mp3 300
 #	PlayEffect Red
 #	MinimapIcon 0 Red Circle
 
@@ -8411,7 +8411,7 @@ Show # %D6 $type->currency->stackedsplintershigh $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8459,7 +8459,7 @@ Show # %D5 $type->currency->stackedsplinterslow $tier->t1
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Circle
 
@@ -8553,7 +8553,7 @@ Show # %D6 $type->currency->splinter->simulacrum $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 0 148 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Kite
 
@@ -8624,7 +8624,7 @@ Show # $type->divination $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 100 250 155 245
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Triangle
 
@@ -8870,7 +8870,7 @@ Show # %H6 $type->event->idols $tier->conquerorrare
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 255 255 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Moon
 
@@ -8928,7 +8928,7 @@ Show # $type->uniques $tier->exkaom
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8952,7 +8952,7 @@ Show # $type->uniques $tier->extabula
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -8964,7 +8964,7 @@ Show # $type->uniques $tier->extriadgrip
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -9000,7 +9000,7 @@ Show # $type->uniques $tier->exsynth
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -9062,7 +9062,7 @@ Show # $type->uniques $tier->t2
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -9087,7 +9087,7 @@ Show # $type->uniques $tier->2xcorrupteduniques
 	SetTextColor 255 255 255 255
 	SetBorderColor 120 0 0 240
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Blue
 	MinimapIcon 0 Blue Star
 
@@ -9099,7 +9099,7 @@ Show # $type->uniques $tier->2xabyss
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -9261,7 +9261,7 @@ Show # $type->uniques $tier->exjewels
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 230 186 55 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Yellow Star
 
@@ -9371,7 +9371,7 @@ Show # $type->miscmapitemsextra $tier->itemizedleaguesincursion
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 0 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
@@ -9381,7 +9381,7 @@ Show # $type->miscmapitemsextra $tier->itemizedleaguesultimatum
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
 	SetBackgroundColor 180 0 255 255
-	PlayAlertSound 1 300
+	PlayAlertSound 1_maplestory.mp3 300
 	PlayEffect Red
 	MinimapIcon 0 Red Hexagon
 
